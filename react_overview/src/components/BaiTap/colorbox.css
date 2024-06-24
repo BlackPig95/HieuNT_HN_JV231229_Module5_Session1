@@ -1,0 +1,17 @@
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+p {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
